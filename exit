@@ -1,0 +1,61 @@
+[33mcommit f6732b11482e7d65654c38c905b155fd38815b56[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/feature1[m[33m, [m[1;32mfeature1[m[33m)[m
+Author: Tuan <phamminh.tuanbks@gmail.com>
+Date:   Mon Apr 26 16:01:44 2021 +0900
+
+    feature 1
+
+[33mcommit 9f615839b30d04c3663776a9cab8cf011b5a2e6f[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Tuan <phamminh.tuanbks@gmail.com>
+Date:   Mon Apr 26 15:46:28 2021 +0900
+
+    them 1 dong ok ban oi
+
+[33mcommit 454df35852214125285b507a2231b80ded482168[m
+Author: Pham Minh Tuan <33810112+phamminhtuanbks@users.noreply.github.com>
+Date:   Mon Apr 26 15:44:11 2021 +0900
+
+    Makking confict
+    
+    make a conflict
+
+[33mcommit 19020f41c1b7afb9eacb4c82bc8a3edbfee7f007[m
+Merge: e9320b7 9e05446
+Author: Tuan <phamminh.tuanbks@gmail.com>
+Date:   Mon Apr 26 15:42:40 2021 +0900
+
+    merge
+
+[33mcommit 9e054465020b156604671b38d2bb4b23b49a0d8c[m
+Author: Pham Minh Tuan <33810112+phamminhtuanbks@users.noreply.github.com>
+Date:   Mon Apr 26 15:34:47 2021 +0900
+
+    making a conflict ahihi
+    
+    TuanPm
+
+[33mcommit e9320b77f25da8a275df8fb7a4660886bf7ea10f[m
+Merge: db232b2 156ed37
+Author: Tuan <phamminh.tuanbks@gmail.com>
+Date:   Mon Apr 26 15:30:07 2021 +0900
+
+    Merge branch 'master' of https://github.com/phamminhtuanbks/ML1
+
+[33mcommit db232b292ca9a0984b76b53114a482bfccb3ca9b[m
+Author: Tuan <phamminh.tuanbks@gmail.com>
+Date:   Mon Apr 26 15:29:03 2021 +0900
+
+    add print line
+
+[33mcommit 156ed37be726e6fc18c75e1fe110092841720a69[m
+Author: Pham Minh Tuan <33810112+phamminhtuanbks@users.noreply.github.com>
+Date:   Mon Apr 26 15:27:34 2021 +0900
+
+    create README file
+    
+    test for pull request
+
+[33mcommit 6c5c38e61106d21d76f3329ad5779f5db44e2267[m
+Author: Tuan <phamminh.tuanbks@gmail.com>
+Date:   Mon Apr 26 15:24:05 2021 +0900
+
+    first commit
